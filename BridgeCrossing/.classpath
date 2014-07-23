@@ -13,5 +13,12 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/JobSearch/Softwares/libs/AwtSoapRepoJars/axis.jar"/>
+	<classpathentry kind="lib" path="C:/JobSearch/Softwares/libs/AwtSoapRepoJars/commons-discovery-0.2.jar"/>
+	<classpathentry kind="lib" path="C:/JobSearch/Softwares/libs/AwtSoapRepoJars/commons-logging.jar"/>
+	<classpathentry kind="lib" path="C:/JobSearch/Softwares/libs/AwtSoapRepoJars/jaxrpc.jar"/>
+	<classpathentry kind="lib" path="C:/JobSearch/Softwares/libs/AwtSoapRepoJars/mysql-connector-java-5.1.10.jar"/>
+	<classpathentry kind="lib" path="C:/JobSearch/Softwares/libs/AwtSoapRepoJars/saaj.jar"/>
+	<classpathentry kind="lib" path="C:/JobSearch/Softwares/libs/AwtSoapRepoJars/wsdl4j.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
