@@ -28,11 +28,11 @@ Deploy to the Tomcat server.
 
 Technologies
 ---------
-Java AWT
-J2EE
-MySql
-Tomcat
-SOAP
+- Java AWT
+- J2EE
+- MySql
+- Tomcat
+- SOAP
 
 
 
